@@ -1,0 +1,2 @@
+# puzzles
+Solution for puzzles
